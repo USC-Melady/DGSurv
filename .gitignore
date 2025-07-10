@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac and Linux
+.DS_Store
+*.swp
+*.swo
+*.bak
+*~
+
+# Logs
+*.log
+
+# dotenv
+.env
+.env.*
+
+# Test result files
+*.out
+*.err
+
+# Dataset and Result files
+splits/*
+!splits/create_splits_kidney.ipynb
+logs/*
+!logs/plot_results.ipynb
+preprocess/data/*
+preprocess/preprocessed_data/*
+!preprocess/data/.gitkeep
+!preprocess/preprocessed_data/.gitkeep
+
