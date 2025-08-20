@@ -88,6 +88,7 @@ splits/*
 !splits/create_splits_kidney.ipynb
 logs/*
 !logs/plot_results.ipynb
+!logs/plot_results_single.ipynb
 preprocess/data/*
 preprocess/preprocessed_data/*
 !preprocess/data/.gitkeep
