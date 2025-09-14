@@ -1,6 +1,7 @@
-'''
+"""
+Code adapted from https://github.com/tennisonliu/LEGATO
 Utilities to convert data into graph format
-'''
+"""
 
 import torch
 from torch import nn

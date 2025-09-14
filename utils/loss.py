@@ -1,3 +1,4 @@
+"""Code adapted from https://github.com/ZhangqiJiang07/MultimodalSurvivalPrediction"""
 """Contrastive Loss and Similarity Loss"""
 
 import torch

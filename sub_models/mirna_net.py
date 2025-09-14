@@ -1,4 +1,7 @@
-"""sub_model: miRNA Nerual Network with fully connected layers"""
+"""
+Code adapted from https://github.com/ZhangqiJiang07/MultimodalSurvivalPrediction
+sub_model: miRNA Nerual Network with fully connected layers
+"""
 
 
 import torch

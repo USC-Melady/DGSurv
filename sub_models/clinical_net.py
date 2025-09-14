@@ -1,4 +1,7 @@
-"""sub_model: Clinical Embedding Network"""
+"""
+Code adapted from https://github.com/ZhangqiJiang07/MultimodalSurvivalPrediction
+sub_model: Clinical Embedding Network
+"""
 
 import torch
 import torch.nn as nn

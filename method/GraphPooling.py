@@ -1,6 +1,7 @@
-'''
+"""
+Code adapted from https://github.com/tennisonliu/LEGATO
 Latent graph pooling module
-'''
+"""
 
 import torch
 import torch.nn as nn

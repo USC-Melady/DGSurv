@@ -1,6 +1,7 @@
-'''
+"""
+Code adapted from https://github.com/tennisonliu/LEGATO
 Multiview input-graph learner
-'''
+"""
 
 import torch
 from torch import nn
